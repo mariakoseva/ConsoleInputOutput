@@ -1,0 +1,4 @@
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Console InputOutput\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Console InputOutput\NumbersInIntervalDividableByGivenNumber\bin\Debug\NumbersInIntervalDividableByGivenNumber.pdb
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Console InputOutput\NumbersInIntervalDividableByGivenNumber\obj\Debug\NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Console InputOutput\NumbersInIntervalDividableByGivenNumber\obj\Debug\NumbersInIntervalDividableByGivenNumber.pdb

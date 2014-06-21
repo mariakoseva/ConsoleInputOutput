@@ -1,0 +1,4 @@
+c:\users\momo\documents\visual studio 2012\Projects\Console InputOutput\CirclePerimeterandArea\bin\Debug\CirclePerimeterandArea.exe
+c:\users\momo\documents\visual studio 2012\Projects\Console InputOutput\CirclePerimeterandArea\bin\Debug\CirclePerimeterandArea.pdb
+c:\users\momo\documents\visual studio 2012\Projects\Console InputOutput\CirclePerimeterandArea\obj\Debug\CirclePerimeterandArea.exe
+c:\users\momo\documents\visual studio 2012\Projects\Console InputOutput\CirclePerimeterandArea\obj\Debug\CirclePerimeterandArea.pdb

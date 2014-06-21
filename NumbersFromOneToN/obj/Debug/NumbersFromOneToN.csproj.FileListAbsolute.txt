@@ -1,0 +1,5 @@
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Console InputOutput\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe.config
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Console InputOutput\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Console InputOutput\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.pdb
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Console InputOutput\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.exe
+C:\Users\Momo\Documents\Visual Studio 2012\Projects\Console InputOutput\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.pdb

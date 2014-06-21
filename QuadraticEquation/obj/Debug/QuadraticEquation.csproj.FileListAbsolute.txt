@@ -1,0 +1,5 @@
+c:\users\momo\documents\visual studio 2012\Projects\Console InputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+c:\users\momo\documents\visual studio 2012\Projects\Console InputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+c:\users\momo\documents\visual studio 2012\Projects\Console InputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.csprojResolveAssemblyReference.cache
+c:\users\momo\documents\visual studio 2012\Projects\Console InputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+c:\users\momo\documents\visual studio 2012\Projects\Console InputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

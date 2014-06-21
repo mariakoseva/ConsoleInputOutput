@@ -1,0 +1,5 @@
+c:\users\momo\documents\visual studio 2012\Projects\Console InputOutput\SumOfThreeNumbers\bin\Debug\SumOfThreeNumbers.exe
+c:\users\momo\documents\visual studio 2012\Projects\Console InputOutput\SumOfThreeNumbers\bin\Debug\SumOfThreeNumbers.pdb
+c:\users\momo\documents\visual studio 2012\Projects\Console InputOutput\SumOfThreeNumbers\obj\Debug\SumOfThreeNumbers.csprojResolveAssemblyReference.cache
+c:\users\momo\documents\visual studio 2012\Projects\Console InputOutput\SumOfThreeNumbers\obj\Debug\SumOfThreeNumbers.exe
+c:\users\momo\documents\visual studio 2012\Projects\Console InputOutput\SumOfThreeNumbers\obj\Debug\SumOfThreeNumbers.pdb
